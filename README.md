@@ -16,9 +16,7 @@ I've also worked in the crypto space, including building a crypto wallet for a c
 | Project | What it does |
 |---|---|
 | [payfast-mcp](https://github.com/jpbester/payfast-mcp) | MCP server for the PayFast payment gateway |
-| [pollinations-mcp-server](https://github.com/jpbester/pollinations-mcp-server) | Lets AI agents generate images and text through Pollinations.ai |
 | [claude-code-memory](https://github.com/jpbester/claude-code-memory) | Brings Claude's chat memory to Claude Code, so it remembers your preferences and projects between sessions |
-| [pandoc-http](https://github.com/jpbester/pandoc-http) | A REST API for Pandoc, packaged in a Docker container |
 
 ### Tools I use
 
