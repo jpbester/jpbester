@@ -1,14 +1,34 @@
-<h1 align="center">Hi 👋, I'm Paul</h1>
-<h3 align="center">Developer; Systems Analyst; Technical Support Lead; Cloud Computing Specialist; Software analysis and development of specialised financial software.</h3>
+## Hi, I'm Paul 👋
 
-- 🔭 I’m currently working on **various projects in the fixed asset and crypto spaces**
+Developer and systems analyst in Cape Town, South Africa. For most of my career I've built specialised financial and fixed-asset software on .NET. These days I also build AI tools, MCP servers and small products that put language models to work on real problems.
 
-- 👯 I’m looking to collaborate on **crypto projects**
+### What I'm building
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+- **[Gentle Wellness](https://gentlewellness.co.za/)**: a free email programme that helps South Africans aged 60 and over stay steady on their feet and sharp in their minds. Each week it sends six short activities covering movement, the mind and social connection, and they work on any phone.
+- **[OppFinder](https://www.oppfinder.app/)**: finds AI business ideas that fit the tech stack you already know.
+- **Keel**: a local-first issue tracker built for AI agents. It runs as one process on one SQLite file. Agents work through MCP and people use a small web UI.
+- **Cairn**: an AI meeting notetaker for the Windows desktop. It records system and microphone audio, transcribes it, and writes structured summaries with action items. Built with .NET 10 and WPF.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+I've also worked in the crypto space, including building a crypto wallet for a client.
 
+### Open source
+
+| Project | What it does |
+|---|---|
+| [payfast-mcp](https://github.com/jpbester/payfast-mcp) | MCP server for the PayFast payment gateway |
+| [pollinations-mcp-server](https://github.com/jpbester/pollinations-mcp-server) | Lets AI agents generate images and text through Pollinations.ai |
+| [claude-code-memory](https://github.com/jpbester/claude-code-memory) | Brings Claude's chat memory to Claude Code, so it remembers your preferences and projects between sessions |
+| [pandoc-http](https://github.com/jpbester/pandoc-http) | A REST API for Pandoc, packaged in a Docker container |
+
+### Tools I use
+
+**Languages:** C# · TypeScript · JavaScript · Python · SQL · MQL5
+**.NET:** ASP.NET Core · MVC · Blazor · .NET MAUI · WPF · Entity Framework
+**Data:** SQL Server · MySQL · SQLite
+**AI:** Claude · MCP · OpenRouter · Azure OpenAI · n8n
+**Infrastructure:** Azure · Docker · Linux · Vercel
+
+<!--
+Optional: add contact links here once your GitHub profile fields are filled in, e.g.
+**Get in touch:** [LinkedIn](https://linkedin.com/in/...) · [Website](https://...)
+-->
