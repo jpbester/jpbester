@@ -22,11 +22,11 @@ I've also worked in the crypto space, including building a crypto wallet for a c
 
 ### Tools I use
 
-**Languages:** C# · TypeScript · JavaScript · Python · SQL · MQL5
-**.NET:** ASP.NET Core · MVC · Blazor · .NET MAUI · WPF · Entity Framework
-**Data:** SQL Server · MySQL · SQLite
-**AI:** Claude · MCP · OpenRouter · Azure OpenAI · n8n
-**Infrastructure:** Azure · Docker · Linux · Vercel
+- **Languages:** C# · TypeScript · JavaScript · Python · SQL · MQL5
+- **.NET:** ASP.NET Core · MVC · Blazor · .NET MAUI · WPF · Entity Framework
+- **Data:** SQL Server · MySQL · SQLite
+- **AI:** Claude · MCP · OpenRouter · Azure OpenAI · n8n
+- **Infrastructure:** Azure · Docker · Linux · Vercel
 
 <!--
 Optional: add contact links here once your GitHub profile fields are filled in, e.g.
